@@ -1,4 +1,4 @@
-var fs = require('fs')
+var fs = require('fs') 
 var copy = require('./util').copy
 var isProduction = require('./util').isProduction
 
